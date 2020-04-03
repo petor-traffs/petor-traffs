@@ -1,2 +1,3 @@
-# petor-traffs
+# Learning Processing
 #A ver que tal va esto de la programada...
+#Este mini-blog tendrá los códigos que haga de dicho libro
